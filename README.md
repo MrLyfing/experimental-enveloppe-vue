@@ -1,29 +1,15 @@
-# enveloppe-vue
+# Enveloppe Vue
 
-## Project setup
-```
-npm install
-```
+Experimental animated enveloppe built for fun with Vue.js and GreenSock.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[Demo here](http://enveloppe-vue.lyfing.fr)
 
-### Compiles and minifies for production
-```
-npm run build
+## Installation
+
+```shell
+$ npm install
+$ npm run serve
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Limitation
+- Tested only on Chrome browser
