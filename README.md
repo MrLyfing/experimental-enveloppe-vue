@@ -2,7 +2,7 @@
 
 Experimental animated enveloppe built for fun with Vue.js and GreenSock.
 
-[Demo here](http://enveloppe-vue.lyfing.fr)
+[Demo here](http://enveloppe-vue.lyfing.dev)
 
 ## Installation
 
